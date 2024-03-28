@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chowon's%20Github&fontSize=90" /><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=9ACD32&height=300&section=header&text=Chowon's%20Github&fontSize=90" /><br>
 ### Hi there 👋
 
 <details>
