@@ -19,17 +19,17 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br>
 
 </details>
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+🔭 I’m currently working on ...<br>
+🌱 I’m currently learning ...<br>
+👯 I’m looking to collaborate on ...<br>
+🤔 I’m looking for help with ...<br>
+💬 Ask me about ...<br>
+📫 How to reach me: ...<br>
+😄 Pronouns: ...<br>
+⚡ Fun fact: ...<br>
 
 </div>
